@@ -57,12 +57,16 @@
                 <legend>Is your cat an indoor or outdoor cat?</legend>
                   <!-- Notice that both radio buttons can be selected at the same time. To make it so selecting one radio 
                     button automatically deselects the other, both buttons must have a name attribute with the same value.-->
-                  <label><input type="radio" id="indoor" name="indoor-outdoor" value="indoor">Indoor</label>
+                  <label><input type="radio" id="indoor" name="indoor-outdoor" value="indoor" checked>Indoor</label>
                   <label><input type="radio" id="outdoor" name="indoor-outdoor" value="outdoor">Outdoor</label>
               </fieldset>
               <fieldset>
                 <legend>What's your cat's personality?</legend>
-                <input type="checkbox">Loving 
+                <!--Associate the text Loving with the checkbox by only nesting the text Loving in a label element 
+                  and place it to the right side of the checkbox input element. <input type="checkbox">Loving-->
+                  <input id="loving" type="checkbox" name="personality" value="loving" checked> <label for="loving">Loving</label>
+                  <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
+                  <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic"> 
               </fieldset>
                 <input type="text" name="catphotourl" placeholder="cat photo URL" required>
             </form>
