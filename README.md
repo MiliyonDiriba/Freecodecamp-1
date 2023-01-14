@@ -9,3 +9,5 @@ Later, learn modern techniques like CSS variables by building a penguin, and
 best practices for accessibility by building a quiz site.
 Finally,learn how to make webpages that respond to different screen sizes by building
 a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
+# Summary
+In this code, you'll learn CSS by designing a menu page for a cafe-menu webpage. You'll learn the most common HTML tags in this code by building your cafe menu.
