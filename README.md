@@ -1,5 +1,5 @@
 # Freecodecamp
-<<<<<<< HEAD
+
 HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
 CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 
@@ -10,5 +10,3 @@ Later, learn modern techniques like CSS variables by building a penguin, and
 best practices for accessibility by building a quiz site.
 Finally,learn how to make webpages that respond to different screen sizes by building
 a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
-=======
->>>>>>> 91aeebf78704dbda96a07e71cd52b5513aebe940
