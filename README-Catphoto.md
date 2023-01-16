@@ -5,5 +5,4 @@ CSS tells the browser how to display your webpage. You can use CSS to set the co
 In this code, you'll learn the most common HTML tags by building your own cat photo app.
 First, building a cat photo app for the basics of HTML and CSS. 
 # summary
-building a cat photo app for the basics of HTML and CSS
-
+building a cat photo app for the basics of HTML and CSS.
