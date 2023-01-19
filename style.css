@@ -15,15 +15,15 @@ padding: 10px 0;
 }
 
 .one {
- background-color: rgb(255, 255, 0);   
+ background-color: rgba(255, 255, 0, 0.438);   
 }
 
 .two {
-background-color: rgb(0, 255, 255);
+background-color: rgba(0, 255, 255, 0.418);
 
 }
 
 .three {
-background-color: rgb(255, 0, 255);
+background-color: rgba(255, 0, 255, 0.39);
 
 }
