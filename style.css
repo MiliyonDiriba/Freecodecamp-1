@@ -14,16 +14,16 @@ padding: 10px 0;
  margin: 10px auto;
 }
 
-.one {
+.red {
  background-color: rgba(255, 255, 0, 0.438);   
 }
 
-.two {
+.green {
 background-color: rgba(0, 255, 255, 0.418);
 
 }
 
-.three {
+.blue {
 background-color: rgba(255, 0, 255, 0.39);
 
 }
