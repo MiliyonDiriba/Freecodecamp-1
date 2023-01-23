@@ -20,6 +20,6 @@ padding: 10px 0;
 .green {
   background: linear-gradient(#55680D, #71F53E, #116C31);
 }
-  .blue {
-    background-color: hsl(240, 100%, 50%);
-  }
+.blue {
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+}
