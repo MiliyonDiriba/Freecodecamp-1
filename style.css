@@ -13,6 +13,11 @@ padding: 10px 0;
  height: 25px;
  margin: 10px auto;
 }
+.cap {
+  width: 60px; 
+     height: 25px;
+
+}
 .sleeve {
   width: 110px;
   height: 25px;
