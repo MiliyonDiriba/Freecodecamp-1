@@ -36,6 +36,7 @@ padding: 10px 0;
 .green {
   background: linear-gradient(#55680D, #71F53E, #116C31);
   box-shadow: 0 0 20px 0 #3B7E20CC;
+  align-content: center;
 }
 
 .blue {
