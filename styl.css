@@ -3,3 +3,8 @@ body {
     height: 100vh;
     margin: 0;
   }
+
+  label {
+    display: block;
+    margin: 0.5rem 0;
+  }
