@@ -37,7 +37,7 @@ select {
   margin: 10px 0 0 0;
   width: 100%;
 }
-.inline {
+.inline { /*to remove the style for the radio buttons not to have all property */
   width: unset;
   margin-top:0;
   margin-bottom:0;
