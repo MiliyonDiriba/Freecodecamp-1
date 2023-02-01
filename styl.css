@@ -22,7 +22,25 @@ fieldset {
   border-bottom:3px solid #3b3b4f;
   padding: 2rem 0;
 }
+fieldset:last-of-type /* to remove the last border in the fieldset*/ 
+{
+  border-bottom:none;
+}
 label {
   display: block;
   margin: 0.5rem 0;
+}
+
+input,
+textarea,
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+}
+.inline {
+  width: unset;
+  margin-top:0;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0.5em;
 }
