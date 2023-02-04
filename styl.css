@@ -39,8 +39,6 @@ select {
 }
 .inline { /*to remove the style for the radio buttons not to have all property */
   width: unset;
-  margin-top:0;
-  margin-bottom:0;
-  margin-left:0;
-  margin-right:0.5em;
+  margin: 0 0.5em 0 0;
+vertical-align:middle;
 }
